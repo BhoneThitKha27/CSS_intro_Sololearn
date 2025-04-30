@@ -1,0 +1,28 @@
+body {
+  background-color: #eee;
+  margin: 0;
+}
+
+.flag {
+  width: 360px;
+  height: 180px;
+  margin: 50px auto;
+  border: 3px solid #000;
+}
+
+.stripe {
+  width: 100%;
+  height: 60px;
+}
+
+.white {
+  background-color: white;
+}
+
+.blue {
+  background-color: #0033a0;
+}
+
+.red {
+  background-color: #d52b1e;
+}

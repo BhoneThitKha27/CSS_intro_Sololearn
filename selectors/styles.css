@@ -1,0 +1,16 @@
+/* Element selector */
+p {
+  color: darkslategray;
+}
+
+/* Class selector */
+.highlight {
+  background-color: lightyellow;
+  color: orange;
+}
+
+/* ID selector */
+#super {
+  background-color: black;
+  color: lime;
+}

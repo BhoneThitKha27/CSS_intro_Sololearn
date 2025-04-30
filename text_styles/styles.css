@@ -1,0 +1,28 @@
+body {
+  background-color: #f0f0f0;
+  font-family: sans-serif;
+  padding: 30px;
+}
+
+.center {
+  text-align: center;
+}
+
+.fancy-text {
+  font-family: "Georgia", serif;
+  font-size: 20px;
+  font-weight: bold;
+  color: #333;
+}
+
+.underlined-text {
+  text-decoration: underline;
+  text-align: center;
+  color: #0077cc;
+}
+
+.cool-text {
+  font-family: "Arial", sans-serif;
+  font-style: italic;
+  color: #e60073;
+}

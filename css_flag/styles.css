@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  background-color: #eee;
+  display: block;
+}
+
+/* Flag container */
+.flag {
+  width: 300px;
+  height: 180px;
+  margin: 50px auto;
+  border: 3px solid #000;
+}
+
+/* Each stripe */
+.stripe {
+  height: 60px;
+  width: 100%;
+}
+
+/* Colors */
+.stripe-red {
+  background-color: red;
+}
+
+.stripe-white {
+  background-color: white;
+}
+
+.stripe-blue {
+  background-color: blue;
+}
